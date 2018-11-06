@@ -1,2 +1,2 @@
 # mechatronics_lab_project
-Mechatronics lab, here take it shaswath
+Mechatronics lab, here take it shashwath
